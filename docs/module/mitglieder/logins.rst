@@ -29,7 +29,7 @@ Logins deaktivieren
 
 3. Speichern Sie Ihre Änderung durch Betätigen der entsprechenden Schaltfläche_
 
-4. Das entsprechende Mitglied sollte sich nun nicht mehr einloggen können
+4. Das entsprechende Mitglied kann sich nun nicht mehr einloggen
 
 
 .. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html#reiter
