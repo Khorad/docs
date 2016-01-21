@@ -6,18 +6,23 @@ Einleitung
 
 Eines der wohl wichtigsten Themen bei der Vereinsorganisation ist die ordnungsgemäße Durchführung der Beitragsverwaltung. Um also für alle Anwendungsfälle gewappnet zu sein, bietet goalio bei diesem Thema eine vielfältige Auswahl an Möglichkeiten, welche auf dieser Seite näher beleuchtet werden.
 
-Der Kern der Funktionalität liegt hierbei auf dem Verhältnis von Abteilungen, Mitgliedern und deren Beiträgen: Während es in einer Abteilung mehrere Beiträge (ermäßigt, normal, ...) geben kann, so kann ein Beitrag nicht mehreren Abteilungen zugeordnet werden. Im Gegensatz dazu ist es aber möglich, jedem Mitglied beliebig viele Beiträge zuzuordnen. Durch diese Handhabe ist gewährleistet, dass ein Mitglied problemlos in mehreren Abteilungen aktiv spielen kann.
+.. note :: 
+         Der Kern der Funktionalität liegt hierbei auf dem Verhältnis von Abteilungen, Mitgliedern und deren Beiträgen: Während es in einer Abteilung mehrere Beiträge (ermäßigt, normal, ...) geben kann, so kann ein Beitrag nicht mehreren Abteilungen zugeordnet werden. Im Gegensatz dazu ist es aber möglich, jedem Mitglied beliebig viele Beiträge zuzuordnen. Durch diese Handhabe ist gewährleistet, dass ein Mitglied problemlos in mehreren Abteilungen aktiv spielen kann.
 
 Anlegen von Beiträgen
 ---------------------
 
-Um einen neuen Beitrag anzulegen, öffnen Sie die Seite *Beiträge* aus dem Menü und klicken Sie auf die Schaltfläche_ *Neu*. Im neuen Fenster sollten Sie dann festlegen können, welchen Namen (Schüler, Erwachsener, ...) der Beitrag hat, und wie oft (*Beitragszyklus*) er in welcher Höhe (*Beitragshöhe*) zu entrichten ist. Wählen Sie anschließend noch die Abteilung aus, in welcher er fällig wird, und klicken Sie auf speichern.
+Um einen neuen Beitrag anzulegen:
 
+1. Öffnen Sie die Seite Beiträge aus dem Menü
+2. Klicken Sie auf die Schaltfläche Neu. 
+3. Legen Sie im neuen Fenster welchen Namen (Schüler, Erwachsener, ...) der Beitrag hat und wie oft (Beitragszyklus) er in welcher Höhe (Beitragshöhe) zu entrichten ist. Wählen Sie anschließend noch die Abteilung aus, in welcher er fällig wird
+4. Klicken Sie auf speichern.
 
 Zuordnen von Beiträgen
 ----------------------
 
-Welcher Beitrag für ein Mitglied gültig ist, kann sowohl direkt über die Beitragsseite im Reiter_ *Zahler* eingestellt werden, als auch in der Mitgliederliste festgelegt werden.
+Welcher Beitrag für ein Mitglied gültig ist, kann sowohl direkt über die Beitragsseite im Reiter_ *Zahler* eingestellt, als auch in der Mitgliederliste festgelegt werden.
 
 **Über die Mitgliederliste**
 
