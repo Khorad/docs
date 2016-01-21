@@ -15,8 +15,8 @@ Anlegen von Beiträgen
 Um einen neuen Beitrag anzulegen:
 
 1. Öffnen Sie die Seite Beiträge aus dem Menü
-2. Klicken Sie auf die Schaltfläche Neu. 
-3. Legen Sie im neuen Fenster welchen Namen (Schüler, Erwachsener, ...) der Beitrag hat und wie oft (Beitragszyklus) er in welcher Höhe (Beitragshöhe) zu entrichten ist. Wählen Sie anschließend noch die Abteilung aus, in welcher er fällig wird
+2. Klicken Sie auf die Schaltfläche Neu 
+3. Legen Sie im neuen Fenster welchen Namen (Schüler, Erwachsener, ...) der Beitrag hat und wie oft (Beitragszyklus) er in welcher Höhe (Beitragshöhe) zu entrichten ist und wählen Sie anschließend noch die Abteilung aus, in welcher er fällig wird
 4. Klicken Sie auf speichern.
 
 Zuordnen von Beiträgen
